@@ -1,7 +1,6 @@
 # book_apps
 
-A new Flutter project.
-
+A new Flutter Tutorial.
 
 ## Flutter UI Design (Books Reading App)
 
